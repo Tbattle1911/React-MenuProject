@@ -1,0 +1,77 @@
+const food = [
+    {
+      id: 1,
+      name: " vegan pancakes ",
+      category: "breakfast ",
+      prices: 14.99,
+      photo: './Images/img-1.jpg',
+      des: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    },
+    {
+      id: 2,
+      name: " manager special ",
+      category: "lunch ",
+      prices: 16.99,
+      photo: "./Images/img-2.jpg",
+      des: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    },
+    {
+      id: 3,
+      name: " caramel cappuccino ",
+      category: "dessert ",
+      prices: 8.99,
+      photo: "./Images/img-3.jpg",
+      des: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    },
+    {
+      id: 4,
+      name: " breakfast special ",
+      category: "breakfast ",
+      prices: 19.99,
+      photo: "../Images/img-4.jpg",
+      des: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    },
+    {
+      id: 5,
+      name: " bacon attack ",
+      category: "breakfast ",
+      prices: 14.99,
+      photo: "../Images/img-5.jpg",
+      des: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    },
+    {
+      id: 6,
+      name: " oreo overflow ",
+      category: "dessert ",
+      prices: 8.99,
+      photo: "../Images/img-6.jpg",
+      des: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    },
+    {
+      id: 7,
+      name: " cubano ",
+      category: "lunch ",
+      prices: 15.99,
+      photo: "../Images/img-7.jpg",
+      des: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    },
+    {
+      id: 8,
+      name: " strawberry shake ",
+      category: "dessert ",
+      prices: 14.99,
+      photo: "../Images/img-8.jpg",
+      des: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    },
+    {
+      id: 9,
+      name: " burger sliders ",
+      category: "lunch ",
+      prices: 13.99,
+      photo: "../Images/img-9.jpg",
+      des: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    },
+  ];
+  
+  export default food;
+  
